@@ -1,0 +1,2 @@
+# newprojectclass
+my learning tasks
